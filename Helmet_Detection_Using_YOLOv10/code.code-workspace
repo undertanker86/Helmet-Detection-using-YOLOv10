@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../pythoninclass"
+		},
+		{
+			"path": "../../filepython/filehtml"
+		},
+		{
+			"path": "C:/Users/Admin/Downloads/COMP-1589-M05/html5-boilerplate-main"
+		},
+		{
+			"path": "../../PJFE"
+		},
+		{
+			"path": "../../xampp/htdocs"
+		},
+		{
+			"path": "../../AIO-2024-WORK"
+		},
+		{
+			"path": "../../KD-ONE"
+		},
+		{
+			"path": "../../projectHan"
+		},
+		{
+			"path": "C:/Users/Admin/Downloads/Greenwich/COMP-1841/stackoverflowgit"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projectHan"
+	}
+}
